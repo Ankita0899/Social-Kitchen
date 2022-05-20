@@ -1,0 +1,246 @@
+
+.navbar ul{
+  background-color: rgba(245, 238, 238, 0.11);
+}
+.navbar .navbar-nav .nav-item .nav-link{
+  color: #fff;
+  font-size: larger;
+}
+.navbar .navbar-nav .nav-item #home{
+  color: #FF5F00;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+  color: #FF5F00;
+}
+h1{
+  font-family: 'Allura', cursive;
+  color: #FF5F00;
+  font-size: 60px;
+}
+#back-imge{
+ background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url("https://s1.1zoom.me/big0/98/Strawberry_Black_background_Bowl_580553_1280x853.jpg");
+}
+.hedding{
+  margin-top: 13%;
+  color: #FF5F00;
+  text-align: center;
+  font-family: 'Allura', cursive;
+  font-size: 60px;
+  font-weight: 400;
+  height: 50%;
+}
+.welcome{
+  color: #fff;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+
+}
+.welcome span{
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-size: larger;
+}
+.button .btn{
+  background-color: #FF5F00;
+  color: #fff;
+  border-radius: 30px;
+  border-color: transparent;
+  font-size: large;
+}
+.button .btn:hover{
+  background-color: transparent;
+  color: #fff;
+ border: 2px solid #FF5F00;
+  font-size: large;
+}
+#back-img{
+  background-image: url("https://media.istockphoto.com/photos/empty-dark-wooden-table-in-front-of-abstract-blurred-bokeh-background-picture-id1130714046?k=20&m=1130714046&s=612x612&w=0&h=b4bENp3GV_9nwHlYz3PJJfZkL8IlW4DTzJpV-R5XbNw=");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container-fluid .container .we{
+  color: #fff;
+  font-size: larger;
+}
+.container-fluid .container #side{
+  width: 450px;
+  height: 450px; 
+  border: 5px solid #FF5F00;
+}
+.container-fluid .container #side:hover{
+  width: 470px;
+  height: 470px; 
+  border: 5px solid #FF5F00;
+}
+.container-fluid .container .white{
+  color: #fff;
+  font-size: large;
+}
+.button-m .btn{
+  color: #FF5F00;
+  border: 2px solid #FF5F00;
+  font-size: large;
+  border-radius: 30px;
+}
+.button-m .btn:hover{
+  background-color: #FF5F00;
+  color: #fff;
+  font-size: large;
+  border-radius: 30px;
+}
+.Buffet h3{
+  color: #FF5F00;
+}
+.Buffet label{
+  font-weight: bold;
+}
+.Breakfast h3{
+  color: #FF5F00;
+}
+.Breakfast label{
+  font-weight: bold;
+  color: rgb(133, 129, 124);
+}
+.Breakfast label span{
+  color: rgb(51, 51, 51);
+}
+.Lunch h2{
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-weight: bold;
+}
+.Lunch h3{
+  color: #FF5F00;
+}
+.Lunch label{
+  font-weight: bold;
+  color: rgb(133, 129, 124);
+}
+.Lunch label span{
+  color: rgb(51, 51, 51);
+}
+.Chef h2{
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-weight: bold;
+}
+.Chef h3{
+  color: #FF5F00;
+}
+.Chef label{
+  font-weight: bold;
+  color: rgb(133, 129, 124);
+}
+.Chef label span{
+  color: rgb(51, 51, 51);
+}
+.Desert h2{
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-weight: bold;
+}
+.Desert h3{
+  color: #FF5F00;
+}
+.Desert label{
+  font-weight: bold;
+  color: rgb(133, 129, 124);
+}
+.Desert label span{
+  color: rgb(51, 51, 51);
+}
+.Drink h2{
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-weight: bold;
+}
+.Drink h3{
+  color: #FF5F00;
+}
+.Drink label{
+  font-weight: bold;
+  color: rgb(133, 129, 124);
+}
+.Drink label span{
+  color: rgb(51, 51, 51);
+}
+.button-v .btn{
+  background-color: #FF5F00;
+  font-size: large;
+  border-radius: 30px;
+}
+.button-v .btn a{
+color: #fff;
+text-decoration: none;
+}
+.button-v .btn:hover{
+  border: 2px solid #FF5F00;
+  font-size: large;
+  border-radius: 30px;
+  background-color: transparent;
+}
+.button-v .btn a:hover{
+  color: #FF5F00;
+  text-decoration: none;
+  }
+.special{
+  background-color: black;
+}
+.special img{
+  width: 250px;
+  height: 250px;
+  display: none;
+}
+.special img:hover{
+  width: 280px;
+  height: 280px;
+}
+.special .col .cocktail .btn{
+  color: #FF5F00;
+  font-size: larger;
+  font-weight: bold;
+}
+.special .col .cocktail .btn:hover{
+  color: #FF5F00;
+  font-size: larger;
+  font-weight: bold;
+  border: 2px solid #FF5F00;
+}
+.special .col .description label{
+  color: #fff;
+  font-size: larger;
+  font-weight: bold;
+  display: none;
+  text-align: center;
+}
+.line{
+  border: 1px solid #FF5F00;
+}
+.gallery{
+  background-color: black;
+}
+#review{
+  background-color: blue;
+}
+.Footer{
+  background-color: rgb(31, 30, 30);
+  color: white;
+}
+h4{
+  font-family: 'Allura', cursive;
+  color: #FF5F00;
+  font-size: 50px;
+}
+.Footer .col a{
+  text-decoration: none;
+}
+.copyright h4{
+  background-color: black;
+  color: #FF5F00;
+  font-family: 'Allura', cursive;
+  font-size: x-large;
+}
+#rev{
+  background-color: rgb(238, 232, 232);
+}
